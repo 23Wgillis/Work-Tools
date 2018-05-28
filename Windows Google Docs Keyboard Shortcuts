@@ -1,0 +1,197 @@
+Copy	Ctrl + c
+Cut	Ctrl + x
+Paste	Ctrl + v
+Paste without formatting	Ctrl + Shift + v
+Undo	Ctrl + z
+Redo	Ctrl + Shift + z
+Insert or edit link	Ctrl + k
+Open link	Alt + Enter
+Show common keyboard shortcuts	Ctrl + /
+Save
+Every change is automatically saved in Drive	Ctrl + s
+Print	Ctrl + p
+Open	Ctrl + o
+Find	Ctrl + f
+Find and replace	Ctrl + h
+Find again	Ctrl + g
+Find previous	Ctrl + Shift + g
+Hide the menus (compact mode)	Ctrl + Shift + f
+Insert page break	Ctrl + Enter
+Search the menus	Alt + /
+Alt + Shift + z
+Google Chrome: Alt + z
+Text formatting
+
+Bold	Ctrl + b
+Italicize	Ctrl + i
+Underline	Ctrl + u
+Strikethrough	Alt + Shift + 5
+Superscript	Ctrl + .
+Subscript	Ctrl + ,
+Copy text formatting	Ctrl + Alt + c
+Paste text formatting	Ctrl + Alt + v
+Clear text formatting	Ctrl + \
+Ctrl + Space
+Increase font size	Ctrl + Shift + >
+Decrease font size	Ctrl + Shift + <
+Paragraph formatting
+
+Increase paragraph indentation	Ctrl + ]
+Decrease paragraph indentation	Ctrl + [
+Apply normal text style	Ctrl + Alt + 0
+Apply heading style [1-6]	Ctrl + Alt + [1-6]
+Left align	Ctrl + Shift + l
+Center align	Ctrl + Shift + e
+Right align	Ctrl + Shift + r
+Justify	Ctrl + Shift + j
+Numbered list	Ctrl + Shift + 7
+Bulleted list	Ctrl + Shift + 8
+Move paragraph up/down	Alt + Shift + Up/down arrow
+Images and drawings
+
+Resize larger	Ctrl + Alt + k
+Resize larger horizontally	Ctrl + Alt + b
+Resize larger vertically	Ctrl + Alt + i
+Resize smaller	Ctrl + Alt + j
+Resize smaller horizontally	Ctrl + Alt + w
+Resize smaller vertically	Ctrl + Alt + q
+Rotate clockwise by 15°	Alt + Right arrow
+Rotate counterclockwise by 15°	Alt + Left arrow
+Rotate counterclockwise by 1°	Alt + Shift + Left arrow
+Rotate clockwise by 1°	Alt + Shift + Right arrow
+Close drawing editor	Shift + Esc
+Comments and footnotes
+
+Insert comment	Ctrl + Alt + m
+Open discussion thread	Ctrl + Alt + Shift + a
+Enter current comment	Ctrl + Enter
+Insert footnote	Ctrl + Alt + f
+Move to current footnote	holding Ctrl + Alt, press e then f
+Move to next footnote	holding Ctrl + Alt, press n then f
+Move to previous footnote	holding Ctrl + Alt, press p then f
+Menus
+
+Context (right-click) menu	Ctrl + Shift + x
+Ctrl + Shift + \
+File menu	in Google Chrome: Alt + f
+other browsers: Alt + Shift + f
+Edit menu	in Google Chrome: Alt + e
+other browsers: Alt + Shift + e
+View menu	in Google Chrome: Alt + v
+other browsers: Alt + Shift + v
+Insert menu	in Google Chrome: Alt + i
+other browsers: Alt + Shift + i
+Format menu	in Google Chrome: Alt + o
+other browsers: Alt + Shift + o
+Tools menu	in Google Chrome: Alt + t
+other browsers: Alt + Shift + t
+Table menu	in Google Chrome: Alt + b
+other browsers: Alt + Shift + b
+Help menu	in Google Chrome: Alt + h
+other browsers: Alt + Shift + h
+Accessibility menu
+(present when screen reader support is enabled)	in Google Chrome: Alt + a
+other browsers: Alt + Shift + a
+Input Tools menu
+(available in documents in non-Latin languages)	Ctrl + Alt + Shift + k
+Toggle input controls
+(available in documents in non-Latin languages)	Ctrl + Shift + k
+Show your browser's context menu	Shift + right-click
+Text selection with keyboard
+
+Select all	Ctrl + a
+Extend selection one character	Shift + Left/right arrow
+Extend selection one line	Shift + Up/down arrow
+Extend selection one word	Ctrl + Shift + Left/right arrow
+Extend selection to the beginning of the line	Shift + Home
+Extend selection to the end of the line	Shift + End
+Extend selection to the beginning of the document	Ctrl + Shift + Home
+Extend selection to the end of the document	Ctrl + Shift + End
+Select current list item	holding Ctrl + Alt + Shift, press e then i
+Select all list items at current level	holding Ctrl + Alt + Shift, press e then o
+Text selection with mouse
+
+Select word	Double-click
+Extend selection one word at a time	Double-click + drag
+Select paragraph	Triple-click
+Extend selection one paragraph at a time	Triple-click + drag
+Screen reader support
+
+Enable screen reader support
+Learn more about using Google Docs with a screen reader	Ctrl + Alt + z
+Alt + Shift + ~
+Speak selection	Ctrl + Alt + x
+Speak from cursor location	Ctrl + Alt + r
+Announce cursor location	holding Ctrl + Alt, press a then l
+Announce formatting at cursor location	holding Ctrl + Alt, press a then f
+Speak the table column and row header	holding Ctrl + Alt + Shift, press t then h
+Speak the table cell location	holding Ctrl + Alt + Shift, press t then n
+Speak the table row header	holding Ctrl + Alt + Shift, press t then r
+Speak the table column header	holding Ctrl + Alt + Shift, press t then c  
+Navigation shortcuts
+Two groups of shortcuts below help you move quickly through your document or table:
+
+Move to the next or previous item with Ctrl + Alt + n or Ctrl + Alt + p followed by another key.
+Move quickly around a table with Ctrl + Alt + Shift + t followed by another key.
+Document navigation
+
+Move to next heading	holding Ctrl + Alt, press n then h
+Move to previous heading	holding Ctrl + Alt, press p then h
+Move to next heading [1-6]	holding Ctrl + Alt, press n then [1-6]
+Move to previous heading [1-6]	holding Ctrl + Alt, press p then [1-6]
+Move to next graphic
+(image or drawing)	holding Ctrl + Alt, press n then g
+Move to previous graphic
+(image or drawing)	holding Ctrl + Alt, press p then g
+Move to next list	holding Ctrl + Alt, press n then o
+Move to previous list	holding Ctrl + Alt, press p then o
+Move to next item in the current list	holding Ctrl + Alt, press n then i
+Move to previous item in the current list	holding Ctrl + Alt, press p then i
+Move to next link	holding Ctrl + Alt, press n then l
+Move to previous link	holding Ctrl + Alt, press p then l
+Move to next bookmark	holding Ctrl + Alt, press n then b
+Move to previous bookmark	holding Ctrl + Alt, press p then b
+Move to next formatting change	holding Ctrl + Alt, press n then w
+Move to previous formatting change	holding Ctrl + Alt, press p then w
+Move to next edit
+(while viewing revision history or new changes)	holding Ctrl + Alt, press n then r
+Ctrl + Alt + k
+Move to previous edit
+(while viewing revision history or new changes)	holding Ctrl + Alt, press p then r
+Ctrl + Alt + j
+Table navigation
+
+Move to the start of the table	holding Ctrl + Alt + Shift, press t then s
+Move to the end of the table	holding Ctrl + Alt + Shift, press t then d
+Move to the start of the table column	holding Ctrl + Alt + Shift, press t then i
+Move to the end of the table column	holding Ctrl + Alt + Shift, press t then k
+Move to the next table column	holding Ctrl + Alt + Shift, press t then b
+Move to the previous table column	holding Ctrl + Alt + Shift, press t then v
+Move to the start of the table row	holding Ctrl + Alt + Shift, press t then j
+Move to the end of the table row	holding Ctrl + Alt + Shift, press t then l
+Move to the next table row	holding Ctrl + Alt + Shift, press t then m
+Move to the previous table row	holding Ctrl + Alt + Shift, press t then g
+Exit table	holding Ctrl + Alt + Shift, press t then e
+Move to the next table	holding Ctrl + Alt + Shift, press n then t
+Move to the previous table	holding Ctrl + Alt + Shift, press p then t
+Other tools and navigation
+
+Open revision history	Ctrl + Alt + Shift + h
+Open Explore tool	Ctrl + Alt + Shift + i
+Open dictionary	Ctrl + Shift + y
+Word count	Ctrl + Shift + c
+Start voice typing
+(available in Chrome browsers)	Ctrl + Shift + s
+Page up	Page Up
+Page down	Page Down
+Move to next misspelling	Ctrl + '
+Move to previous misspelling	Ctrl + ;
+Insert or move to header	holding Ctrl + Alt, press o then h
+Insert or move to footer	holding Ctrl + Alt, press o then f
+Move focus to popup
+(for links, bookmarks, and images)	holding Ctrl + Alt, press e then p
+Open chat inside the document	Shift + Esc
+Move focus out of document text	Ctrl + Alt + Shift + m
+Return focus to document text	Esc
+Focus containing webpage
+(such as when using Docs in Google+ Hangouts)	Ctrl + Shift + Esc
