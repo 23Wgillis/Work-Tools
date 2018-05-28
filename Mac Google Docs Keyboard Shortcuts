@@ -1,0 +1,184 @@
+Common actions
+
+Copy	⌘ + c
+Cut	⌘ + x
+Paste	⌘ + v
+Paste without formatting	⌘ + Shift + v
+Undo	⌘ + z
+Redo	⌘ + Shift + z
+Insert or edit link	⌘ + k
+Open link	Option + Enter
+Show common keyboard shortcuts	⌘ + /
+Save
+Every change is automatically saved in Drive	⌘ + s
+Print	⌘ + p
+Open	⌘ + o
+Find	⌘ + f
+Find and replace	⌘ + Shift + h
+Find again	⌘ + g
+Find previous	⌘ + Shift + g
+Hide the menus (compact mode)	Ctrl + Shift + f
+Insert page break	⌘ + Enter
+Search the menus	Option + /
+Ctrl + Option + z
+Mozilla Firefox: Ctrl + ~
+Text formatting
+
+Bold	⌘ + b
+Italicize	⌘ + i
+Underline	⌘ + u
+Strikethrough	⌘ + Shift + x
+Superscript	⌘ + .
+Subscript	⌘ + ,
+Copy text formatting	⌘ + Option + c
+Paste text formatting	⌘ + Option + v
+Clear text formatting	⌘ + \
+Increase font size	⌘ + Shift + >
+Decrease font size	⌘ + Shift + <
+Paragraph formatting
+
+Increase paragraph indentation	⌘ + ]
+Decrease paragraph indentation	⌘ + [
+Apply normal text style	⌘ + Option + o
+Apply heading style [1-6]	⌘ + Option + [1-6]
+Left align	⌘ + Shift + l
+Center align	⌘ + Shift + e
+Right align	⌘ + Shift + r
+Justify	⌘ + Shift + j
+Numbered list	⌘ + Shift + 7
+Bulleted list	⌘ + Shift + 8
+Images and drawings
+
+Resize larger	⌘ + Ctrl + k
+Resize larger horizontally	⌘ + Ctrl + b
+Resize larger vertically	⌘ + Ctrl + i
+Resize smaller	⌘ + Ctrl + j
+Resize smaller horizontally	⌘ + Ctrl + w
+Resize smaller vertically	⌘ + Ctrl + q
+Rotate clockwise by 15°	Option + Right arrow
+Rotate counterclockwise by 15°	Option + Left arrow
+Rotate counterclockwise by 1°	Option + Shift + Left arrow
+Rotate clockwise by 1°	Option + Shift + Right arrow
+Close drawing editor	⌘ + Esc
+Shift + Esc
+Comments and footnotes
+
+Insert comment	⌘ + Option + m
+Open discussion thread	⌘ + Option + Shift + a
+Enter current comment	Ctrl + Enter
+Insert footnote	⌘ + Option + f
+Move to current footnote	holding Ctrl + ⌘, press e then f
+Move to next footnote	holding Ctrl + ⌘, press n then f
+Move to previous footnote	holding Ctrl + ⌘, press p then f
+Menus
+
+Context (right-click) menu	⌘ + Shift + \
+File menu	Ctrl + Option + f
+Edit menu	Ctrl + Option + e
+View menu	Ctrl + Option + v
+Insert menu	Ctrl + Option + i
+Format menu	Ctrl + Option + o
+Tools menu	Ctrl + Option + t
+Table menu	Ctrl + Option + b
+Help menu	Ctrl + Option + h
+Accessibility menu
+(present when screen reader support is enabled)	Ctrl + Option + a
+Input Tools menu
+(available in documents in non-Latin languages)	⌘ + Option + Shift + k
+Toggle input controls
+(available in documents in non-Latin languages)	⌘ + Shift + k
+Show your browser's context menu	Shift + right-click
+Text selection with keyboard
+
+Select all	⌘ + a
+Extend selection one character	Shift + Left/right arrow
+Extend selection one line	Shift + Up/down arrow
+Extend selection to the beginning of the line	Shift + Fn + Left arrow
+Extend selection one paragraph	Option + Shift + Up/Down arrow
+Extend selection to the end of the line	Shift + Fn + Right arrow
+Extend selection to the beginning of the document	⌘ + Shift + Up arrow
+Extend selection to the end of the document	⌘ + Shift + Down arrow
+Select current list item	holding Ctrl + ⌘ + Shift, press e then i
+Select all list items at current level	holding Ctrl + ⌘ + Shift, press e then o
+Text selection with mouse
+
+Select word	Double-click
+Extend selection one word at a time	Double-click + drag
+Select paragraph	Triple-click
+Extend selection one paragraph at a time	Triple-click + drag
+Screen reader support
+
+Enable screen reader support
+Learn more about using Google Docs with a screen reader	Option + ⌘ + z
+Speak selection	Ctrl + ⌘ + x
+Speak from cursor location	Ctrl + ⌘ + r
+Announce cursor location	holding Ctrl + ⌘, press a then l
+Announce formatting at cursor location	holding Ctrl + ⌘, press a then f
+Speak the table column and row header	holding Ctrl + ⌘ + Shift, press t then h
+Speak the table cell location	holding Ctrl + ⌘ + Shift, press t then n
+Speak the table row header	holding Ctrl + ⌘ + Shift, press t then r
+Speak the table column header	holding Ctrl + ⌘ + Shift, press t then c  
+Navigation shortcuts
+Two groups of shortcuts below help you move quickly through your document or table:
+
+Move to the next or previous item with Ctrl + ⌘ + n or Ctrl + ⌘ + p followed by another key.
+Move quickly around a table with Ctrl + ⌘ + Shift + t followed by another key.
+Document navigation
+
+Move to next heading	holding Ctrl + ⌘, press n then h
+Move to previous heading	holding Ctrl + ⌘, press p then h
+Move to next heading [1-6]	holding Ctrl + ⌘, press n then [1-6]
+Move to previous heading [1-6]	holding Ctrl + ⌘, press p then [1-6]
+Move to next media
+(image or drawing)	holding Ctrl + ⌘, press n then g
+Move to previous media
+(image or drawing)	holding Ctrl + ⌘, press p then g
+Move to next list	holding Ctrl + ⌘, press n then o
+Move to previous list	holding Ctrl + ⌘, press p then o
+Move to next item in the current list	holding Ctrl + ⌘, press n then i
+Move to previous item in the current list	holding Ctrl + ⌘, press p then i
+Move to next link	holding Ctrl + ⌘, press n then l
+Move to previous link	holding Ctrl + ⌘, press p then l
+Move to next bookmark	holding Ctrl + ⌘, press n then b
+Move to previous bookmark	holding Ctrl + ⌘, press p then b
+Move to next formatting change	holding Ctrl + ⌘, press n then w
+Move to previous formatting change	holding Ctrl + ⌘, press p then w
+Move to the next edit
+(while viewing revision history or new changes)	holding Ctrl + ⌘, press n then r
+Move to the previous edit
+(while viewing revision history or new changes)	holding Ctrl + ⌘, press p then r
+Table navigation
+
+Move to the start of the table	holding Ctrl + ⌘ + Shift, press t then s
+Move to the end of the table	holding Ctrl + ⌘ + Shift, press t then d
+Move to the start of the table column	holding Ctrl + ⌘ + Shift, press t then i
+Move to the end of the table column	holding Ctrl + ⌘ + Shift, press t then k
+Move to the next table column	holding Ctrl + ⌘ + Shift, press t then b
+Move to the previous table column	holding Ctrl + ⌘ + Shift, press t then v
+Move to the start of the table row	holding Ctrl + ⌘ + Shift, press t then j
+Move to the end of the table row	holding Ctrl + ⌘ + Shift, press t then l
+Move to the next table row	holding Ctrl + ⌘ + Shift, press t then m
+Move to the previous table row	holding Ctrl + ⌘ + Shift, press t then g
+Exit table	holding Ctrl + ⌘ + Shift, press t then e
+Move to the next table	holding Ctrl + ⌘ + Shift, press n then t
+Move to the previous table	holding Ctrl + ⌘ + Shift, press p then t
+Other tools and navigation
+
+Open revision history	⌘ + Option + Shift + h
+Open Explore tool	⌘ + Option + Shift + i
+Open dictionary	⌘ + Shift + y
+Word count	⌘ + Shift + c
+Start voice typing
+(available in Chrome browsers)	⌘ + Shift + s
+Page up	Fn + Up arrow
+Page down	Fn + Down arrow
+Move to next misspelling	⌘ + '
+Move to previous misspelling	⌘ + ;
+Insert or move to header	holding Ctrl + ⌘, press o then h
+Insert or move to footer	holding Ctrl + ⌘, press o then f
+Move focus to popup
+(for links, bookmarks, and images)	holding Ctrl + ⌘, press e then p
+Move focus out of document text	⌘ + Option + Shift + m
+Return focus to document text	Esc
+Focus containing webpage
+(such as when using Docs in Google+ Hangouts)	Ctrl + Shift + Esc
